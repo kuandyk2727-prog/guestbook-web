@@ -15,6 +15,14 @@
             <h5>@entry.GuestName</h5>
             <p>@entry.Message</p>
             <small>Дата: @entry.CreatedAt.ToString("dd.MM.yyyy HH:mm")</small>
+            <form method="post" asp-page-handler="Delete">
+                <input type="hidden" name="id" value="@entry.Id" />
+                <button type="submit"
+                        class="btn btn-danger btn-sm mt-2"
+                        onclick="return confirm('Удалить запись?')">
+                    Удалить
+                </button>
+            </form>
         </div>
     </div>
 }

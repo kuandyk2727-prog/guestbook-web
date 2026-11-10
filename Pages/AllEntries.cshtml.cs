@@ -1,3 +1,4 @@
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using GuestBook.Web.Models;
 using GuestBook.Web.Services;
@@ -18,6 +19,12 @@ namespace GuestBook.Web.Pages
         public async Task OnGetAsync()
         {
             Entries = await _sql.GetAllEntriesAsync();
+        }
+
+        public async Task<IActionResult> OnPostDeleteAsync(int id)
+        {
+            await _sql.DeleteEntryAsync(id);
+            return RedirectToPage();
         }
     }
 }
