@@ -30,9 +30,9 @@ jobs:
     - name: Deploy to MonsterASP.NET
       shell: cmd
       env:
-        DEST_SITE: ${{ secrets.WEBSITE_NAME }}
-        DEST_URL: ${{ secrets.SERVER_COMPUTER_NAME }}
-        DEPLOY_USER: ${{ secrets.SERVER_USERNAME }}
+        DEST_SITE: site96475
+        DEST_URL: https://site96475.siteasp.net:8172/msdeploy.axd?site=site96475
+        DEPLOY_USER: site96475
         DEPLOY_PASS: ${{ secrets.SERVER_PASSWORD }}
       run: >
         "C:\Program Files (x86)\IIS\Microsoft Web Deploy V3\msdeploy.exe"
