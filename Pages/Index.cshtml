@@ -1,0 +1,43 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Гостевая книга";
+}
+<h1>Гостевая книга</h1>
+<form method="post" enctype="multipart/form-data">
+    <div class="mb-3">
+        <label>Ваше имя:</label>
+        <input asp-for="GuestName" class="form-control" />
+    </div>
+    <div class="mb-3">
+        <label>Сообщение:</label>
+        <textarea asp-for="Message" class="form-control"></textarea>
+    </div>
+    <div class="mb-3">
+        <label>Фото (необязательно):</label>
+        <input type="file" asp-for="Photo" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Оставить запись</button>
+</form>
+<hr />
+<h2>Записи сегодня:</h2>
+@foreach (var entry in Model.Entries)
+{
+    <div class="card mb-2">
+        <div class="card-body">
+            <h5>@entry.GuestName</h5>
+            <p>@entry.Message</p>
+            @if (!string.IsNullOrEmpty(entry.PhotoUrl) && entry.PhotoUrl != "/images/default.png")
+            {
+                <img src="@entry.PhotoUrl" width="150" />
+            }
+            <form method="post" asp-page-handler="Delete" class="mt-2">
+                <input type="hidden" name="id" value="@entry.Id" />
+                <button type="submit" class="btn btn-danger btn-sm"
+                        onclick="return confirm('Удалить запись?')">
+                    Удалить
+                </button>
+            </form>
+        </div>
+    </div>
+}

@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\GuestBook\\GuestBook.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\services\\sqlstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:services\\sqlstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\pages\\allentries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:pages\\allentries.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\pages\\allentries.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:pages\\allentries.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:services\\blobstorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\services\\photostorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:services\\photostorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\pages\\gallery.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:pages\\gallery.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:pages\\gallery.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|c:\\projects\\guestbook\\guestbook.web\\models\\guestbookentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12274266-F599-B279-2347-236447BC8377}|GuestBook.Web.csproj|solutionrelative:models\\guestbookentry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AllEntries.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\AllEntries.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\AllEntries.cshtml.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\AllEntries.cshtml.cs",
+              "RelativeToolTip": "Pages\\AllEntries.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-03T10:58:05.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllEntries.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\AllEntries.cshtml",
+              "RelativeDocumentMoniker": "Pages\\AllEntries.cshtml",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\AllEntries.cshtml",
+              "RelativeToolTip": "Pages\\AllEntries.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-03T10:57:22.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Pages\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T18:43:47.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Gallery.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Gallery.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Gallery.cshtml.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Gallery.cshtml.cs",
+              "RelativeToolTip": "Pages\\Gallery.cshtml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwBsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:42:46.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Gallery.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Gallery.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Gallery.cshtml",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Gallery.cshtml",
+              "RelativeToolTip": "Pages\\Gallery.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-12T18:42:23.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlobStorageService.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Services\\BlobStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\BlobStorageService.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Services\\BlobStorageService.cs",
+              "RelativeToolTip": "Services\\BlobStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T18:32:25.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhotoStorageService.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Services\\PhotoStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\PhotoStorageService.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Services\\PhotoStorageService.cs",
+              "RelativeToolTip": "Services\\PhotoStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:33:16.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SqlStorageService.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Services\\SqlStorageService.cs",
+              "RelativeDocumentMoniker": "Services\\SqlStorageService.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Services\\SqlStorageService.cs",
+              "RelativeToolTip": "Services\\SqlStorageService.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAYwF4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:22:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T13:30:58.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T13:33:20.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Pages\\Index.cshtml",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Pages\\Index.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAiwCoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T13:31:53.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-27T13:30:36.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GuestBookEntry.cs",
+              "DocumentMoniker": "C:\\Projects\\GuestBook\\GuestBook.Web\\Models\\GuestBookEntry.cs",
+              "RelativeDocumentMoniker": "Models\\GuestBookEntry.cs",
+              "ToolTip": "C:\\Projects\\GuestBook\\GuestBook.Web\\Models\\GuestBookEntry.cs",
+              "RelativeToolTip": "Models\\GuestBookEntry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T13:26:41.471Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

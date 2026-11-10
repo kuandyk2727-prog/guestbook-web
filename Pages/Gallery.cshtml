@@ -1,0 +1,21 @@
+﻿@page
+@model GalleryModel
+@{
+    ViewData["Title"] = "Галерея файлов";
+}
+<h1>Галерея загруженных файлов</h1>
+<p>Всего файлов: @Model.BlobUrls.Count</p>
+<hr />
+@foreach (var url in Model.BlobUrls)
+{
+    <div style="margin-bottom: 20px; border: 1px solid #ccc; padding: 10px;">
+        <img src="@url" style="max-width: 200px; max-height: 200px;" />
+        <br />
+        <small>@url</small>
+        <br />
+        <form method="post" asp-page-handler="Delete">
+            <input type="hidden" name="url" value="@url" />
+            <button type="submit" onclick="return confirm('Удалить файл?')">Удалить</button>
+        </form>
+    </div>
+}

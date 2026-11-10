@@ -1,0 +1,20 @@
+﻿@page
+@model AllEntriesModel
+@{
+    ViewData["Title"] = "Все записи";
+}
+
+<h1>Все записи гостевой книги</h1>
+<p>Всего записей: @Model.Entries.Count</p>
+<hr />
+
+@foreach (var entry in Model.Entries)
+{
+    <div class="card mb-2">
+        <div class="card-body">
+            <h5>@entry.GuestName</h5>
+            <p>@entry.Message</p>
+            <small>Дата: @entry.CreatedAt.ToString("dd.MM.yyyy HH:mm")</small>
+        </div>
+    </div>
+}
